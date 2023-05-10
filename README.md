@@ -1,1 +1,1 @@
-# yarn-berry-workspace3
+# yarn-berry-workspace

@@ -45,6 +45,8 @@ export default function Home() {
           </div>
         </div>
 
+        <div>테스트</div>
+
         <Button variant="contained">Hello from @wanted/ui</Button>
 
         <div className={styles.center}>
